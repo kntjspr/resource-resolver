@@ -1,0 +1,13 @@
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\bin\Debug\ResourceResolver.exe.config
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\bin\Debug\ResourceResolver.exe
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\bin\Debug\ResourceResolver.pdb
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.csproj.AssemblyReference.cache
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.frmAbout.resources
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.frmErrorHandlingWindow.resources
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.frmMain.resources
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.Properties.Resources.resources
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.csproj.GenerateResource.cache
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.csproj.CoreCompileInputs.cache
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.exe
+C:\Users\kntjs\Desktop\ResourceResolver\ResourceResolver\obj\x86\Debug\ResourceResolver.pdb
